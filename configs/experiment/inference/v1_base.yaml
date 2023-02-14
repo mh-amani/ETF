@@ -1,0 +1,19 @@
+# @package _global_
+
+# Rebel + high lr and high bs
+
+defaults:
+  - _default_max_rebel
+
+datamodule:
+  linearization_class_id: fully_expanded_et
+
+model:
+  _target_: src.models.GenIEFlanT5PL.load_from_checkpoint
+  checkpoint_path: logs/train/runs/train_rebel_base_higher-lr_v1/2022-12-18_13-50-13/checkpoints/model-epoch_006-step_6505-val_nll-0.1740.ckpt
+  linearization_class_id: fully_expanded_et # for backwards compatibility, should not be present for new models
+#  constraint_module: null  # Set to null to switch off constrained generation, which by default is set to the constrained world
+
+run_name_prefix: ""
+# name of the run determines folder name in logs
+run_name: ${run_name_prefix}v1_datamodule-${datamodule.name}_world-${datamodule.constrained_world}_split-${datamodule.dataset_parameters.test.dataset.load_dataset_params.split}_constraint-${get_constraint_module_id:${model.constraint_module}}_lp-${model.hparams_overrides.inference.hf_generation_params.length_penalty}

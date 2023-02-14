@@ -1,0 +1,17 @@
+# @package _global_
+
+defaults:
+  - sc_fully_synthetic_ms
+
+datamodule:
+  batch_size: 6
+
+trainer:
+  devices: 4
+  accumulate_grad_batches: 48 # x bs x devices = 48 * 6 * 4 = 1152
+  max_steps: 20000
+
+resume_from_checkpoint: logs/train/runs/sc_fully_synthetic_low_bs_and_lr_ms/2023-01-26_20-20-46/checkpoints/last.ckpt
+
+# name of the run determines folder name in logs
+run_name: "sc_fully_synthetic_low_bs_and_lr_ms_resume"

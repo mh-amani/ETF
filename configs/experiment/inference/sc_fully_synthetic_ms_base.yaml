@@ -1,0 +1,28 @@
+# @package _global_
+
+# +experiment/inference=sc_fully_synthetic_ms datamodule=sdg_code_davinci_002
+# small -> datamodule.dataset_parameters.test.dataset.load_dataset_params.split="test_small" or "test_small_ordered"
+
+defaults:
+  - _default
+  - _default_max_rebel_t5 # T5 tokenizeable world + constrained decoding
+
+datamodule:
+  linearization_class_id: "subject_collapsed"
+  count_datapoints_with_unk_in_target: False
+  verify_triplet_ordering: False
+
+  dataset_parameters:
+    train: null
+    val: null
+
+model:
+  _target_: src.models.GenIEFlanT5PL.load_from_checkpoint
+  checkpoint_path: logs/train/runs/sc_fully_synthetic_ms_base_medium_lr/2023-02-08_22-40-53/checkpoints/model-epoch_010-step_7002-val_nll-0.1892.ckpt
+  hparams_overrides:
+    inference:
+      hf_generation_params:
+        length_penalty: 0.6
+
+run_name_prefix: ""
+run_name: ${run_name_prefix}sc_fully_synthetic_ms_base_medium_lr_datamodule-${datamodule.name}_world-${datamodule.constrained_world}_split-${datamodule.dataset_parameters.test.dataset.load_dataset_params.split}_constraint-${get_constraint_module_id:${model.constraint_module}}_lp-${model.hparams_overrides.inference.hf_generation_params.length_penalty}

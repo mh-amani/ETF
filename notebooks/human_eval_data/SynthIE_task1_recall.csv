@@ -1,0 +1,467 @@
+id,dataset,triplets_formatted,sentence,Martin,maxime revised,Marija - revised,Maxime,Marija
+1145,rebel,"(Stacey Bridges; place of birth; Waco, Texas), 
+(Texas; located in the administrative territorial entity; United States), 
+(United States; contains administrative territorial entity; Texas)","Stacey Bridges (born April 23, 1988 in Waco, Texas) is a rugby union player from the United States.","Stacey Bridges; date of birth; April 23, 1988
+Stacey Bridges; profession; rugby union player",Waco; located in the administrative territorial entity; Texas,,,
+93578,rebel,"(China; ethnic group; Han Chinese), 
+(Chinese diaspora in France; diaspora; Overseas Chinese)","British Chinese (also known as Chinese British, Chinese Britons or British-born Chinese (BBC)) are people of Chineseparticularly Han Chineseancestry who reside in the United Kingdom, constituting the second or third-largest group of overseas Chinese in Europe apart from the Chinese diaspora in France and the overseas Chinese community in Russia.","Brithish Chinese; also known as; Chinese British
+Brithish Chinese; also known as; Chinese Britons
+Brithish Chinese; also known as; British-born Chinese (BBC))
+Brithish Chinese; ethnic group: Han Chinese
+British Chinese; place of residence; UK
+British Chinese; among largest diaspora; Overseas Chinese
+French Chinese; among largest diaspora; Overseas Chinese
+Russian Chinese; among largest diaspora; Overseas Chinese",,,,
+89153,model_code,"(Cripps Corner; located in the administrative territorial entity; Ewhurst, East Sussex), 
+(Ewhurst, East Sussex; instance of; Civil parish), 
+(Ewhurst, East Sussex; located in the administrative territorial entity; Rother District)","Cripps Corner is a hamlet in the civil parish of Ewhurst in the Rother District of East Sussex, England.","Cripps Corner ; instance of; hamlet (village)
+East Syssex; located in; England",,East Syssex; located in; England,,
+141724,rebel,(Ciudad del Este; country; Paraguay),"Antonio Oddone Sarubbi\"", is a football stadium in the city of Ciudad del Este, Paraguay.","Antonio Oddone Sarubbi; instance of; football stadium
+Antonio Oddone Sarubbi; location; Ciudad del Este",,,,
+60656,model_code,"(Carcase for Hounds; country of origin; Kenya), 
+(Carcase for Hounds; author; Meja Mwangi), 
+(Carcase for Hounds; publication date; 1974), 
+(Meja Mwangi; country of citizenship; Kenya)",Carcase for Hounds is a 1974 novel by Kenyan author Meja Mwangi.,Carcase for Hounds; instance-of; novel,,Carcase for Hounds; instance-of; novel,,
+10422,model_code,"(Samsung Galaxy Xcover 3; operating system; Android (operating system)), 
+(Samsung Galaxy Xcover 3; manufacturer; Samsung Electronics)",The Samsung Galaxy Xcover 3 is a smartphone manufactured by Samsung Electronics that runs the Android operating system.,Samsung Galaxy Xcover 3; instance of; Smartphone,Samsung Galaxy Xcover 3; instance of; Smartphone,Samsung Galaxy Xcover 3; instance-of; smartphone,,
+32067,model_code,"(West Virginia Route 869; located in the administrative territorial entity; West Virginia), 
+(Putnam County, West Virginia; located in the administrative territorial entity; West Virginia), 
+(West Virginia; contains administrative territorial entity; Putnam County, West Virginia)","West Virginia Route 869 is a state highway in Putnam County, West Virginia.",Samsung Galaxy Xcover 3; instance of; Smartphone,West Virginia Route 869; instance of; State Highway,West Virginia Route 869; instance-of; highway,,
+78554,model_text,"(The Einstein Intersection; publication date; 1967), 
+(The Einstein Intersection; author; Samuel R. Delany), 
+(Samuel R. Delany; genre; Science fiction)","The Einstein Intersection, a science fiction novel written by Samuel R. Delany, was published in 1967.",The Einstein Intersection; instance-of; novel,,The Einstein Intersection; instance-of; novel,,
+137425,model_text,"(Matthew Shir; sport; Australian rules football), 
+(Matthew Shir; member of sports team; Adelaide Football Club), 
+(Adelaide Football Club; sport; Australian rules football), 
+(Adelaide Football Club; league; Australian Football League), 
+(Australian Football League; sport; Australian rules football)",Matthew Shir is a sportsman who plays Australian rules football for the Adelaide Football Club in the Australian Football League.,"Matthew Shir, instance of, sportsman",,,,
+114563,model_code,"(TDECU Stadium; structure replaces; Robertson Stadium), 
+(Robertson Stadium; structure replaced by; TDECU Stadium)",TDECU Stadium replaced Robertson Stadium.,,,,,
+114563,model_text,,"TDECU Stadium has replaced Robertson Stadium, which was in turn replaced by TDECU Stadium.",,,,,
+34424,model_code,"(Prince Albert Victor, Duke of Clarence and Avondale; godparent; Queen Victoria), 
+(Edward VII; spouse; Alexandra of Denmark), 
+(Alexandra of Denmark; spouse; Edward VII)","Prince Albert Victor, Duke of Clarence and Avondale, was the godson of Queen Victoria. He was the brother of King Edward VII, and the uncle of Queen Alexandra.","Prince Albert Victor, Duke of Clarence and Avondale; borther; King Edward VII
+Prince Albert Victor, Duke of Clarence and Avondale; uncle; Queen Alexandra",,,,
+117537,rebel,"(Sacramento Kings; inception; 1945), 
+(Sacramento Kings; league; National Basketball Association), 
+(Texas Rangers (baseball); league; Major League Baseball), 
+(Sacramento Monarchs; league; Women's National Basketball Association)","Robert Hernreich, (born 1945), is a previous owner of the Sacramento Kings of the National Basketball Association, the Texas Rangers of Major League Baseball, the Sacramento Monarchs of the WNBA, the Arizona Rattlers of the Arena Football League, and the Sacramento Knights of the World Indoor Soccer League.","Robert Hernreich, year of birth; 1945
+Robert Hernreich, previous owner; Sacramento Kings
+Robert Hernreich, previous owner; Texas Rangers
+Robert Hernreich, previous owner; Sacramento Monarchs
+Robert Hernreich, previous owner; Arizona Rattlers
+Arizona Rattlers; league; Arena Football League
+Robert Hernreich, previous owner; Sacramento Knights
+Sacramento Knights; league; World Indoor Soccer League",,,,
+141245,model_text,"(KOY; located in the administrative territorial entity; Arizona), 
+(Arizona; capital; Phoenix, Arizona)","KOY is located in the administrative territorial entity of Arizona, whose capital is Phoenix, Arizona.",,,,,
+77489,rebel,"(Romainmôtier; located in the administrative territorial entity; Vaud), 
+(Orbe District; located in the administrative territorial entity; Vaud), 
+(Orbe District; country; Switzerland), 
+(Vaud; country; Switzerland), 
+(Switzerland; contains administrative territorial entity; Vaud)","Romainmôtier is a village and former municipality in the district of Orbe in the canton of Vaud, Switzerland.","Romainmotier, instance of, village",,,,
+60582,model_text,"(United States; contains administrative territorial entity; Wisconsin), 
+(Wisconsin; located in the administrative territorial entity; United States)","The United States contains the administrative territorial entity of Wisconsin, which is located within the United States.",,,,,
+3741,rebel,(Johan Martin Jakob von Tengström; place of birth; Turku),Johan Martin Jakob von Tengström (1821 in Åbo – 1890) was a Finnish entomologist.,"Johan Martin Jakob von Tengstrom; place of birth; Abo
+Johan Martin Jakob von Tengstrom; year of birth; 1821
+Johan Martin Jakob von Tengstrom; year of death; 1890
+Johan Martin Jakob von Tengstrom; profession; entomologist
+Johan Martin Jakob von Tengstrom; citizenship; Finnish
+",,,,
+42476,rebel,(Symphony Number One; musical conductor; Jordan Randall Smith),Jordan Randall Smith is Symphony Number One’s founder and current music director.,Symphony Number One; founder; Jordan Randall Smith,,,,
+82099,model_code,"(Zuzowy; located in the administrative territorial entity; Gmina Przedbórz), 
+(Gmina Przedbórz; located in the administrative territorial entity; Radomsko County), 
+(Radomsko County; contains administrative territorial entity; Gmina Przedbórz), 
+(Radomsko County; located in the administrative territorial entity; Łódź Voivodeship), 
+(Łódź Voivodeship; contains administrative territorial entity; Radomsko County)","Zuzowy is a village in Gmina Przedbórz, Radomsko County, Łódź Voivodeship, in central Poland.","Zuzowy; instance of; village
+Zuzowy; country; Poland",,,,
+137425,model_code,"(Matthew Shir; sport; Australian rules football), 
+(Matthew Shir; member of sports team; Adelaide Football Club), 
+(Adelaide Football Club; sport; Australian rules football), 
+(Adelaide Football Club; league; Australian Football League), 
+(Australian Football League; sport; Australian rules football)",Matthew Shir plays Australian rules football for the Adelaide Football Club in the Australian Football League.,,,,,
+60656,rebel,"(Carcase for Hounds; country of origin; Kenya), 
+(Carcase for Hounds; author; Meja Mwangi), 
+(Carcase for Hounds; publication date; 1974), 
+(Meja Mwangi; country of citizenship; Kenya)",Carcase for Hounds is a novel by Kenyan writer Meja Mwangi first published in 1974.,Carcase for Hounds; instance of; novel,Carcase for Hounds; instance of; novel,Carcase for Hounds; instance-of; novel,,
+64743,model_text,"(Two Weeks with the Queen; publication date; 1990), 
+(Two Weeks with the Queen; author; Morris Gleitzman)","Two Weeks with the Queen, a novel by Morris Gleitzman, was first published in 1990.",Two Weeks with the Queen; instance of; novel,Two Weeks with the Queen; instance of; novel,"Two weeks with the Queen, instance-of; novel",,
+89153,model_text,"(Cripps Corner; located in the administrative territorial entity; Ewhurst, East Sussex), 
+(Ewhurst, East Sussex; instance of; Civil parish), 
+(Ewhurst, East Sussex; located in the administrative territorial entity; Rother District)","Cripps Corner is located in the civil parish of Ewhurst, East Sussex, which is in turn located in the Rother District.",,,,,
+26540,model_text,(DBeaver; supports programming language; SQL),DBeaver supports the programming language SQL.,,,,,
+93578,model_text,"(China; ethnic group; Han Chinese), 
+(Chinese diaspora in France; diaspora; Overseas Chinese)","The Han Chinese is the predominant ethnic group in China, while the Overseas Chinese is the diaspora population in France.",,,,,
+134530,model_code,"(Wrestling at the 1924 Summer Olympics – Men's Greco-Roman light heavyweight; point in time; 1924), 
+(1924 Summer Olympics; point in time; 1924)",Wrestling at the 1924 Summer Olympics – Men\'s Greco-Roman light heavyweight took place in 1924 as part of the 1924 Summer Olympics.,,,,,
+3741,model_text,(Johan Martin Jakob von Tengström; place of birth; Turku),Johan Martin Jakob von Tengström was born in Turku.,,,,,
+117537,model_code,"(Sacramento Kings; inception; 1945), 
+(Sacramento Kings; league; National Basketball Association), 
+(Texas Rangers (baseball); league; Major League Baseball), 
+(Sacramento Monarchs; league; Women's National Basketball Association)",The Sacramento Kings are a National Basketball Association team founded in 1945. They are not to be confused with the Texas Rangers baseball team or the Sacramento Monarchs women\'s basketball team.,,,,,
+34554,model_code,(Buffalo Bill; given name; William),Buffalo Bill\'s given name is William.,,,,,
+97176,model_text,"(Masgo; located in the administrative territorial entity; Toécé Department), 
+(Toécé Department; located in the administrative territorial entity; Bazèga Province), 
+(Toécé Department; country; Burkina Faso), 
+(Bazèga Province; country; Burkina Faso)","Masgo is located in the Toécé Department of Bazèga Province, Burkina Faso. Toécé Department and Bazèga Province are both located in Burkina Faso.",,,,,
+64743,rebel,"(Two Weeks with the Queen; publication date; 1990), 
+(Two Weeks with the Queen; author; Morris Gleitzman)",Two Weeks with the Queen is a 1990 novel by Australian author Morris Gleitzman.,"Morris Gleizman, country of citizenship, Australian
+Two Weeks with the Queen; instance of; novel",Two Weeks with the Queen; instance of; novel,"Two weeks with the Queen, instance-of; novel",,
+9858,model_text,"(Fitzgibbon Hospital; instance of; Hospital), 
+(Fitzgibbon Hospital; located in the administrative territorial entity; Marshall, Missouri), 
+(Marshall, Missouri; located in the administrative territorial entity; Saline County, Missouri), 
+(Saline County, Missouri; contains administrative territorial entity; Marshall, Missouri)","Fitzgibbon Hospital is an instance of a hospital located in Marshall, Missouri, which is in Saline County, Missouri. Saline County contains Marshall as an administrative territorial entity.",,,,,
+20185,rebel,(Cleveland Cavaliers; league; National Basketball Association),"After his collegiate career ended, Middlebrooks tried out with the Cleveland Cavaliers of the National Basketball Association.",Middlebrooks; try out; Cleveland Cavaliers,,,,
+97592,rebel,(Theodor Busse; commander of (DEPRECATED); 9th Army (Wehrmacht)),"The Battle of Halbe (, , Halbe pocket) from April 24 – May 1, 1945 was a battle in which the German Ninth Army, under the command of General Theodor Busse, was destroyed as a fighting force by the Red Army during the Battle of Berlin.","The Battle of Halbe; also known as; Halbe Pocket
+The Battle of Halbe; duration; April 24-May 1, 1945
+The Battle of Halbe; part of; The Battle of Berlin
+German Ninth Army; participant; The Battle of Halbe
+Theodor Busse; rank; General
+Red Army; participant; The Battle of Halbe
+Red Army; winner; The Battle of Halbe
+",,"The Battle of Halbe; starting date; April 24 1945
+The Battle of Halbe; ending date; May 1 1945",,"1, 4"
+114563,rebel,"(TDECU Stadium; structure replaces; Robertson Stadium), 
+(Robertson Stadium; structure replaced by; TDECU Stadium)","The university's campus is home to many on-campus athletic facilities including TDECU Stadium (on the site of the former Robertson Stadium), Fertitta Center, and Darryl & Lori Schroeder Park.","TDECU Stadium; located on; (the) University's Campus
+Fertitta Center; located on; (the) University's Campus
+Darryl & Lori Schroeder Park; located on; (the) University's Campus ",,,,"0, 1, 2"
+149366,rebel,"(Nashdom; instance of; English country house), 
+(Nashdom; located in the administrative territorial entity; Burnham, Buckinghamshire)","Nashdom, also known as Nashdom Abbey, is a former country house and former Anglican Benedictine abbey in Burnham, Buckinghamshire, England.","Nashdom; also known as; Nashdom Abbey
+Nashdom; instance of; Anglican Benedictine abbey
+Burnham, Buckinghamshire; located in; England",,"Burnham, Buckinghamshire; located in; England",,
+101502,model_code,"(Vrbica (Jajce); located in the administrative territorial entity; Jajce), 
+(Vrbica (Jajce); country; Bosnia and Herzegovina), 
+(Municipalities of Bosnia and Herzegovina; country; Bosnia and Herzegovina), 
+(Jajce; country; Bosnia and Herzegovina)","Vrbica (Jajce) is a village in the municipality of Jajce, Bosnia and Herzegovina.",Vrbica; instance of; village,,,,
+141724,model_code,(Ciudad del Este; country; Paraguay),Ciudad del Este is a city in Paraguay.,Ciudad del Este; instance-of; city,,Ciudad del Este; instance-of; city,,
+26540,rebel,(DBeaver; supports programming language; SQL),DBeaver is a SQL client software application and a database administration tool.,"DBeaver; instance of; client software application
+DBeaver; instance of; database aministration tool",,,,
+71560,model_code,(Naghma; work period (start); 1980),Naghma started working in 1980.,,,,,
+32067,rebel,"(West Virginia Route 869; located in the administrative territorial entity; West Virginia), 
+(Putnam County, West Virginia; located in the administrative territorial entity; West Virginia), 
+(West Virginia; contains administrative territorial entity; Putnam County, West Virginia)","West Virginia Route 869 is a short, one mile (1.6km) state highway in Putnam County, West Virginia that connects U.S. Route 35 and West Virginia Route 62 via the Lower Buffalo Bridge (officially the Johnathon David Higginbotham Memorial Bridge) over the Kanawha River.","West Virginia Route 869; length; one mile
+West Virginia Route 869; located in; Putnam County 
+Lower Buffalo Bridge; part of; West Virginia Route 869
+Lower Buffalo Bridge; official name; Johnathon David Higginbotham Memorial Bridge
+Lower Buffalo Bridge; over; Kanawha River
+Lower Buffalo Bridge; connects; U.S. Route 35 and West Virginia Route 62
+West Virginia Route 869; instance-of; highway",,West Virginia Route 869; instance-of; highway,,
+49769,rebel,(1999 Nunavut general election; point in time; 1999),Iqaqrialu was first elected to the Nunavut Legislature in the 1999 Nunavut general election.,"Iqaqrialu; member of; Legislative Assembly of Nunavut
+Iqaqrialu; first elected in; 1999
+",,,,
+117537,model_text,"(Sacramento Kings; inception; 1945), 
+(Sacramento Kings; league; National Basketball Association), 
+(Texas Rangers (baseball); league; Major League Baseball), 
+(Sacramento Monarchs; league; Women's National Basketball Association)","The Sacramento Kings were founded in 1945 and play in the National Basketball Association. The Texas Rangers play in Major League Baseball, while the Sacramento Monarchs are part of the Women\'s National Basketball Association.",,,,,
+136795,rebel,"(Lake Karachi; country; Russia), 
+(Chanovsky District; located in the administrative territorial entity; Novosibirsk Oblast), 
+(Chanovsky District; country; Russia), 
+(Novosibirsk Oblast; country; Russia), 
+(Russia; contains administrative territorial entity; Novosibirsk Oblast)","Lake Karachi () is an endorheic saltwater lake in Chanovsky District of Novosibirsk Oblast, Russia.",Lake Karachi; instance of; endorheic saltwater lake,,Lake Karachi; located in; Chanovsky District,,
+70715,model_code,"(Koszalin Voivodeship; country; Poland), 
+(Szczecin Voivodeship (1975–1998); country; Poland)",Koszalin Voivodeship and Szczecin Voivodeship (1975–1998) were both part of Poland.,,,,,
+93810,model_text,"(The Wreck of the Edmund Fitzgerald; performer; Gordon Lightfoot), 
+(The Wreck of the Edmund Fitzgerald; main subject; SS Edmund Fitzgerald), 
+(SS Edmund Fitzgerald; depicted by; The Wreck of the Edmund Fitzgerald)","Gordon Lightfoot famously performed \""The Wreck of the Edmund Fitzgerald,\"" a song about the SS Edmund Fitzgerald which is depicted in the lyrics.",,,The Wreck of the Edmund Fitzgerald; instance-of; song,,
+70822,rebel,"(Überetsch; located in the administrative territorial entity; South Tyrol), 
+(Etschtal; located in the administrative territorial entity; Italy), 
+(South Tyrol; country; Italy)","The Überetsch (; ) is a hilly section of the Etschtal in South Tyrol, northern Italy.",,,"Überetsch; located in; Etschal
+Etschal; located in; South Tyrol",,
+153696,rebel,"(As I Lay Dying (band); genre; Metalcore), 
+(As I Lay Dying (band); has part; Tim Lambesis), 
+(Tim Lambesis; genre; Metalcore), 
+(Tim Lambesis; member of; As I Lay Dying (band))",They worked with the metalcore band As I Lay Dying vocalist Tim Lambesis and his production partner Daniel Castleman to record the album.,"As I lay Dying; instance-of; band
+Daniel Castleman, production partner, Tim Lambesis
+They, co-workers, Tim Lambesis
+They, co-workers, Daniel Castleman",,As I lay Dying; instance-of; band,"1,2","1, 2"
+3741,model_code,(Johan Martin Jakob von Tengström; place of birth; Turku),Johan Martin Jakob von Tengström was born in Turku.,,,,,
+60656,model_text,"(Carcase for Hounds; country of origin; Kenya), 
+(Carcase for Hounds; author; Meja Mwangi), 
+(Carcase for Hounds; publication date; 1974), 
+(Meja Mwangi; country of citizenship; Kenya)","Carcase for Hounds, a novel written by Kenyan author Meja Mwangi and published in 1974, originated in Kenya.",Carcase for Hounds; instance of; novel,Carcase for Hounds; instance of; novel,Carcase for Hounds; instance-of; novel,,
+1145,model_text,"(Stacey Bridges; place of birth; Waco, Texas), 
+(Texas; located in the administrative territorial entity; United States), 
+(United States; contains administrative territorial entity; Texas)","Stacey Bridges was born in Waco, Texas, a state located in the United States. The United States contains the administrative territorial entity of Texas.",,Waco; located in the administrative territorial entity; Texas,,,
+126024,model_text,"(Camille Guérin; occupation; Veterinarian), 
+(BCG vaccine; instance of; Vaccine), 
+(BCG vaccine; vaccine for; Tuberculosis)",Camille Guérin is a Veterinarian and the BCG vaccine is an instance of a Vaccine. The BCG vaccine is specifically used to vaccinate against Tuberculosis.,,,,,
+101502,model_text,"(Vrbica (Jajce); located in the administrative territorial entity; Jajce), 
+(Vrbica (Jajce); country; Bosnia and Herzegovina), 
+(Municipalities of Bosnia and Herzegovina; country; Bosnia and Herzegovina), 
+(Jajce; country; Bosnia and Herzegovina)","Vrbica (Jajce) is located in the administrative territorial entity of Jajce, which is in Bosnia and Herzegovina, one of the municipalities of Bosnia and Herzegovina. Jajce itself is also in Bosnia and Herzegovina.",,,,,
+99664,rebel,"(Boladı; located in the administrative territorial entity; Lankaran District), 
+(Lankaran District; country; Azerbaijan), 
+(Azerbaijan; contains administrative territorial entity; Lankaran District)","Boladı (also, Boladi, Balady, Boiady, Bolady, and Volady) is a village and municipality in the Lankaran Rayon of Azerbaijan.","Boladı; also known as; Boladi
+Boladı; also known as; Balady
+Boladı; also known as; Boiady
+Boladı; also known as; Bolady
+Boladı; also known as; Volady
+Boladı; instance-of; village
+Boladı; instance-of; municipality",,"Boladı; also known as; Boladi
+Boladı; also known as; Balady
+Boladı; also known as; Boiady
+Boladı; also known as; Bolady
+Boladı; also known as; Volady
+Boladı; instance-of; village
+Boladı; instance-of; municipality",,
+26540,model_code,(DBeaver; supports programming language; SQL),DBeaver supports SQL.,,,,,
+136795,model_text,"(Lake Karachi; country; Russia), 
+(Chanovsky District; located in the administrative territorial entity; Novosibirsk Oblast), 
+(Chanovsky District; country; Russia), 
+(Novosibirsk Oblast; country; Russia), 
+(Russia; contains administrative territorial entity; Novosibirsk Oblast)","Lake Karachi is located in Russia. Chanovsky District is located in Novosibirsk Oblast, Russia. Russia contains the administrative territorial entity of Novosibirsk Oblast.",,,,,
+126024,model_code,"(Camille Guérin; occupation; Veterinarian), 
+(BCG vaccine; instance of; Vaccine), 
+(BCG vaccine; vaccine for; Tuberculosis)",Camille Guérin was a French veterinarian best known for developing the BCG vaccine against tuberculosis.,"Camille Guerin; developped; BCG vaccine
+Camille Guerin; coutry of origin; France",Camille Guerin; coutry of origin; France,,,
+60582,rebel,"(United States; contains administrative territorial entity; Wisconsin), 
+(Wisconsin; located in the administrative territorial entity; United States)",This genus contains six species that are distributed across the Eastern continental United States as far west as Oklahoma and Wisconsin.,"This genus; contains; six species
+This genus; represented; eastern continental US
+This genus; represented; as far west as Oklahoma and Wisconsin
+United States; contains administrative territorial entity; Oklahoma",,United States; contains administrative territorial entity; Oklahoma,,"0, 1, 2"
+42476,model_code,(Symphony Number One; musical conductor; Jordan Randall Smith),The conductor of Symphony Number One is Jordan Randall Smith.,,,,,
+4117,rebel,(Folk Songs for Far Out Folk; performer; Fred Katz (cellist)),Folk Songs for Far Out Folk is an album by Fred Katz originally released on Warner Bros.,"Folk Songs for Far Out Folk; publisher; Warner Bros
+Folk Songs for Far Out Folk; instance-of; album",,Folk Songs for Far Out Folk; instance-of; album,,
+70378,model_code,(The World Is Not Enough; theme music; The World Is Not Enough (song)),The theme song for the James Bond film The World Is Not Enough is also called The World Is Not Enough.,The World Is Not Enough; instance of; Film,The World Is Not Enough; instance of; Film,,,
+70378,model_text,(The World Is Not Enough; theme music; The World Is Not Enough (song)),"The theme music for the 1999 James Bond film \""The World Is Not Enough\"" is the song of the same name.","The World is Not Enough; release year; 1999
+The World Is Not Enough; instance of; Film",The World Is Not Enough; instance of; Film,,,
+78554,rebel,"(The Einstein Intersection; publication date; 1967), 
+(The Einstein Intersection; author; Samuel R. Delany), 
+(Samuel R. Delany; genre; Science fiction)",The Einstein Intersection is a 1967 science fiction novel by Samuel R. Delany.,The Einstein Intersection; instance-of; novel,,The Einstein Intersection; instance-of; novel,,
+71560,rebel,(Naghma; work period (start); 1980),"Naghma Shaperai (Pashto: نغمه ښاپېرۍ, born 1 January 1959 in Ghani Province, Afghanistan) is an Afghan singer who started her career in the early 1980s.","Naghma Shaperai; date of birth; 1 January 1959
+Naghma Sheperai; place of birth; Ghani Province, Afghanistan
+Naghma; occupation; singer
+Naghma; citizenship; Afghanistan",,,,
+33367,rebel,"(Pix Brook; located in the administrative territorial entity; Hertfordshire), 
+(Pix Brook; mouth of the watercourse; River Hiz), 
+(Hertfordshire; shares border with; Bedfordshire), 
+(Bedfordshire; shares border with; Hertfordshire), 
+(River Hiz; tributary; Pix Brook)","Pix Brook is a stream that flows through Letchworth Garden City in Hertfordshire, Stotfold in Bedfordshire, and meets the River Hiz north of Arlesey.","Pix Brooks; flows through; Letchworth Garden City
+Pix Brooks; inflow location; north of Arlesey
+Pix Brooks; instance-of; stream",,Pix Brooks; instance-of; stream,,
+101502,rebel,"(Vrbica (Jajce); located in the administrative territorial entity; Jajce), 
+(Vrbica (Jajce); country; Bosnia and Herzegovina), 
+(Municipalities of Bosnia and Herzegovina; country; Bosnia and Herzegovina), 
+(Jajce; country; Bosnia and Herzegovina)","Vrbica (Jajce) is a village in the municipality of Jajce, Bosnia and Herzegovina.",Vrbica; instance of; village,,Vrbica; instance of; village,,
+9858,rebel,"(Fitzgibbon Hospital; instance of; Hospital), 
+(Fitzgibbon Hospital; located in the administrative territorial entity; Marshall, Missouri), 
+(Marshall, Missouri; located in the administrative territorial entity; Saline County, Missouri), 
+(Saline County, Missouri; contains administrative territorial entity; Marshall, Missouri)","Fitzgibbon Hospital is a historic hospital building located at Marshall, Saline County, Missouri.",,,,,
+134530,model_text,"(Wrestling at the 1924 Summer Olympics – Men's Greco-Roman light heavyweight; point in time; 1924), 
+(1924 Summer Olympics; point in time; 1924)","At the 1924 Summer Olympics, Wrestling – Men\'s Greco-Roman light heavyweight and the Summer Olympics itself took place in 1924.",,,,,
+82099,model_text,"(Zuzowy; located in the administrative territorial entity; Gmina Przedbórz), 
+(Gmina Przedbórz; located in the administrative territorial entity; Radomsko County), 
+(Radomsko County; contains administrative territorial entity; Gmina Przedbórz), 
+(Radomsko County; located in the administrative territorial entity; Łódź Voivodeship), 
+(Łódź Voivodeship; contains administrative territorial entity; Radomsko County)","Zuzowy is located in Gmina Przedbórz, which is in turn located in Radomsko County. Radomsko County contains Gmina Przedbórz and is located in Łódź Voivodeship. Łódź Voivodeship contains Radomsko County.",,,,,
+97592,model_code,(Theodor Busse; commander of (DEPRECATED); 9th Army (Wehrmacht)),Theodor Busse commanded the 9th Army.,,,,,
+64743,model_code,"(Two Weeks with the Queen; publication date; 1990), 
+(Two Weeks with the Queen; author; Morris Gleitzman)","Morris Gleitzman\'s book \""Two Weeks with the Queen\"" was published in 1990.",Two Weeks with the Queen; instance-of; book,,Two Weeks with the Queen; instance-of; book,,
+137425,rebel,"(Matthew Shir; sport; Australian rules football), 
+(Matthew Shir; member of sports team; Adelaide Football Club), 
+(Adelaide Football Club; sport; Australian rules football), 
+(Adelaide Football Club; league; Australian Football League), 
+(Australian Football League; sport; Australian rules football)",Matthew Shir (born 12 September 1981) is an Australian rules footballer who played with Adelaide in the Australian Football League (AFL).,"Matthew Shir; date of birth; 12 September 1981
+Matthew Shir; citizenship; Australia",,Matthew Shir; citizenship; Australia,,
+141724,model_text,(Ciudad del Este; country; Paraguay),Ciudad del Este is located in Paraguay.,,,,,
+33367,model_code,"(Pix Brook; located in the administrative territorial entity; Hertfordshire), 
+(Pix Brook; mouth of the watercourse; River Hiz), 
+(Hertfordshire; shares border with; Bedfordshire), 
+(Bedfordshire; shares border with; Hertfordshire), 
+(River Hiz; tributary; Pix Brook)","Pix Brook is a tributary of the River Hiz and is located in Hertfordshire, which borders with Bedfordshire.",,,,,
+141245,rebel,"(KOY; located in the administrative territorial entity; Arizona), 
+(Arizona; capital; Phoenix, Arizona)",KOY (1230 AM) in Phoenix is the oldest radio station in the state of Arizona.,KOY; instance-of; radio-staion,KOY; instance of; radio station,KOY; instance-of; radio-staion,,
+60130,model_code,(Poltava Governorate; country; Russian Empire),Poltava Governorate was part of the Russian Empire.,,,,,
+142125,rebel,"(2004 Monaco Grand Prix; location; Circuit de Monaco), 
+(2004 Monaco Grand Prix; event distance; 77), 
+(2004 Monaco Grand Prix; part of; 2004 Formula One World Championship), 
+(2004 Formula One World Championship; point in time; 2004), 
+(2004 Formula One World Championship; sports season of league or competition; Formula One)","The 2004 Monaco Grand Prix (formally the LXII Grand Prix de Monaco) was a Formula One motor race held on 23 May 2004, at the Circuit de Monaco; contested over 77 laps, it was the sixth race of the 2004 Formula One season.","2004 Monaco Grand Prix; official name; LXII Grand Prix de Monaco
+2004 Monaco Grand Prix; point in time; 23 May 2004
+2004 Monaco Grand Prix; race order; 6th ",,,,
+120240,model_text,"(Zeus; iconographic symbol; Thunderbolt), 
+(Zeus; iconographic symbol; Eagle), 
+(Zeus; iconographic symbol; Sacred bull)","Zeus is an iconic figure in Greek mythology, often associated with the symbols of a thunderbolt, an eagle, and a sacred bull.",Zeus; part of; Greek mythology,,,,
+153696,model_code,"(As I Lay Dying (band); genre; Metalcore), 
+(As I Lay Dying (band); has part; Tim Lambesis), 
+(Tim Lambesis; genre; Metalcore), 
+(Tim Lambesis; member of; As I Lay Dying (band))","As I Lay Dying is a metalcore band formed in San Diego, California. The band consists of Tim Lambesis, Jordan Mancino, Nick Hipa, Phil Sgrosso, and Josh Gilbert.","As I lay Dying; founded in; San Diego, California
+Jordan Mancino; member of; As I Lay Dying
+Nick Hipa; member of; As I Lay Dying
+Phil Sgrosso; member of; As I Lay Dying
+Josh Gilbert; member of; As I Lay Dying
+As I Lay Dying; instance-of; band",,As I Lay Dying; instance-of; band,,
+9858,model_code,"(Fitzgibbon Hospital; instance of; Hospital), 
+(Fitzgibbon Hospital; located in the administrative territorial entity; Marshall, Missouri), 
+(Marshall, Missouri; located in the administrative territorial entity; Saline County, Missouri), 
+(Saline County, Missouri; contains administrative territorial entity; Marshall, Missouri)","Fitzgibbon Hospital is a hospital located in Marshall, Missouri.",,,,,
+97176,rebel,"(Masgo; located in the administrative territorial entity; Toécé Department), 
+(Toécé Department; located in the administrative territorial entity; Bazèga Province), 
+(Toécé Department; country; Burkina Faso), 
+(Bazèga Province; country; Burkina Faso)",Masgo is a town in the Toece Department of Bazèga Province in central Burkina Faso.,,,,,
+99664,model_code,"(Boladı; located in the administrative territorial entity; Lankaran District), 
+(Lankaran District; country; Azerbaijan), 
+(Azerbaijan; contains administrative territorial entity; Lankaran District)",Boladı is a village in Lankaran District of Azerbaijan.,,,Boladı; instance-of; village,,
+97176,model_code,"(Masgo; located in the administrative territorial entity; Toécé Department), 
+(Toécé Department; located in the administrative territorial entity; Bazèga Province), 
+(Toécé Department; country; Burkina Faso), 
+(Bazèga Province; country; Burkina Faso)",Masgo is a village in the Toécé Department of Bazèga Province in central Burkina Faso.,,,,,
+142125,model_text,"(2004 Monaco Grand Prix; location; Circuit de Monaco), 
+(2004 Monaco Grand Prix; event distance; 77), 
+(2004 Monaco Grand Prix; part of; 2004 Formula One World Championship), 
+(2004 Formula One World Championship; point in time; 2004), 
+(2004 Formula One World Championship; sports season of league or competition; Formula One)","The 2004 Monaco Grand Prix was held at the Circuit de Monaco and was 77 laps long. It was part of the 2004 Formula One World Championship, a Formula One season that took place in 2004.",,,,,
+93810,rebel,"(The Wreck of the Edmund Fitzgerald; performer; Gordon Lightfoot), 
+(The Wreck of the Edmund Fitzgerald; main subject; SS Edmund Fitzgerald), 
+(SS Edmund Fitzgerald; depicted by; The Wreck of the Edmund Fitzgerald)","Gordon Lightfoot's song \""The Wreck of the \""Edmund Fitzgerald\""\""\""\"" makes reference to the Witch of November: the storm that wrecked the \""Edmund Fitzgerald\"" was 978 mbar, equivalent to a borderline Category 1/2 hurricane.","Witch of November; instance of; storm
+Witch of November; strength; 978 mbar
+Witch of Novermber; equivalent; Category 1/2 hurricane
+Witch of November; wrecked; SS Edmund Fitzgerald",,,,
+142125,model_code,"(2004 Monaco Grand Prix; location; Circuit de Monaco), 
+(2004 Monaco Grand Prix; event distance; 77), 
+(2004 Monaco Grand Prix; part of; 2004 Formula One World Championship), 
+(2004 Formula One World Championship; point in time; 2004), 
+(2004 Formula One World Championship; sports season of league or competition; Formula One)","The 2004 Monaco Grand Prix was a Formula One motor race held on 23 May 2004 at the Circuit de Monaco. It was the sixth race of the 2004 Formula One season. The 77-lap race was won by the eventual World Champion, Michael Schumacher, driving a Ferrari. Jarno Trulli finished second in a Renault, with Kimi Räikkönen third in a McLaren.","2004 Monaco Grand Prix; race order; 6th 
+2004 Monaco Grand Prix; point in time; 23 May 2004
+2004 Monaco Grand Prix; 1st place; Michael Schumacher
+Michael Schumacher; team; Ferrari
+2004 Monaco Grand Prix; 2nd place; Jarno Trulli
+Michael Schumacher; team; Renault
+2004 Monaco Grand Prix; 3nd place; Kimi Raikkonen
+Michael Schumacher; team; McLaren",,,,
+1145,model_code,"(Stacey Bridges; place of birth; Waco, Texas), 
+(Texas; located in the administrative territorial entity; United States), 
+(United States; contains administrative territorial entity; Texas)","Stacey Bridges was born in Texas, United States.",,Waco; located in the administrative territorial entity; Texas,,,
+34424,model_text,"(Prince Albert Victor, Duke of Clarence and Avondale; godparent; Queen Victoria), 
+(Edward VII; spouse; Alexandra of Denmark), 
+(Alexandra of Denmark; spouse; Edward VII)","Prince Albert Victor, Duke of Clarence and Avondale was the godparent of Queen Victoria. Edward VII was married to Alexandra of Denmark, and Alexandra of Denmark was married to Edward VII.",,,,,
+20185,model_code,(Cleveland Cavaliers; league; National Basketball Association),"The Cleveland Cavaliers are a professional basketball team based in Cleveland, Ohio. They compete in the National Basketball Association (NBA) as a member of the league\'s Eastern Conference Central Division.","Cleveland Cavaliers; member of; NBA Eastern Division
+Cleveland Cavaliers; based in; Cleveland
+Cleveland; located in; Ohio",,"Cleveland Cavaliers; based in; Cleveland
+Cleveland; located in; Ohio",,
+89153,rebel,"(Cripps Corner; located in the administrative territorial entity; Ewhurst, East Sussex), 
+(Ewhurst, East Sussex; instance of; Civil parish), 
+(Ewhurst, East Sussex; located in the administrative territorial entity; Rother District)","Cripps Corner is a village in the civil parish of Ewhurst and the Rother district of East Sussex, England.","Cripps Corner ; instance of; village
+East Sussex; located in; England",,"Cripps Corner ; instance of; village
+East Sussex; located in; England",,
+93810,model_code,"(The Wreck of the Edmund Fitzgerald; performer; Gordon Lightfoot), 
+(The Wreck of the Edmund Fitzgerald; main subject; SS Edmund Fitzgerald), 
+(SS Edmund Fitzgerald; depicted by; The Wreck of the Edmund Fitzgerald)","\""The Wreck of the Edmund Fitzgerald\"" is a song by Canadian singer-songwriter Gordon Lightfoot, about the sinking of the SS Edmund Fitzgerald.","Gordon Lightfoot; citizenship; Canadian
+Gordon Lightfoot; occupation; singer-songwriter",,"Gordon Lightfoot; citizenship; Canadian
+Gordon Lightfoot; occupation; singer-songwriter",,
+78554,model_code,"(The Einstein Intersection; publication date; 1967), 
+(The Einstein Intersection; author; Samuel R. Delany), 
+(Samuel R. Delany; genre; Science fiction)",Samuel R. Delany\'s 1967 science fiction novel The Einstein Intersection.,,,,,
+10422,model_text,"(Samsung Galaxy Xcover 3; operating system; Android (operating system)), 
+(Samsung Galaxy Xcover 3; manufacturer; Samsung Electronics)",The Samsung Galaxy Xcover 3 is a smartphone manufactured by Samsung Electronics that runs on the Android operating system.,Samsung Galaxy Xcover 3; instance-of; smartphone\,Samsung Galaxy Xcover 3; instance of; Smartphone,Samsung Galaxy Xcover 3; instance-of; smartphone,,
+42476,model_text,(Symphony Number One; musical conductor; Jordan Randall Smith),Jordan Randall Smith was the musical conductor of Symphony Number One.,,,,,
+71560,model_text,(Naghma; work period (start); 1980),Naghma began her work in 1980.,,,,,
+141245,model_code,"(KOY; located in the administrative territorial entity; Arizona), 
+(Arizona; capital; Phoenix, Arizona)","KOY is a radio station in Phoenix, Arizona.",KOY; instance of; radio station,,,,
+34554,rebel,(Buffalo Bill; given name; William),"William Frederick \""Buffalo Bill\"" Cody (February 26, 1846 – January 10, 1917) was an American soldier, bison hunter, and showman.","Buffalo Bill; date of birth; February 26, 1846
+Buffalo Bill; date of death; January 10, 1917
+Buffalo Bill; occupation; soldier
+Buffallo Bill; allegience; US
+Buffalo Bill; occupation; bison hunter
+Buffalo Bill; occupation; showman",,,,
+134530,rebel,"(Wrestling at the 1924 Summer Olympics – Men's Greco-Roman light heavyweight; point in time; 1924), 
+(1924 Summer Olympics; point in time; 1924)",He competed in the Greco-Roman light heavyweight event at the 1924 Summer Olympics.,He; compteted; 1924 Summer Olympics,,,,0
+70822,model_text,"(Überetsch; located in the administrative territorial entity; South Tyrol), 
+(Etschtal; located in the administrative territorial entity; Italy), 
+(South Tyrol; country; Italy)","Überetsch is located in South Tyrol, which is part of Italy. Similarly, Etschtal is located in Italy. South Tyrol is a region of Italy.",,,,,
+4117,model_text,(Folk Songs for Far Out Folk; performer; Fred Katz (cellist)),Fred Katz (cellist) performed on the album Folk Songs for Far Out Folk.,,,,,
+70715,model_text,"(Koszalin Voivodeship; country; Poland), 
+(Szczecin Voivodeship (1975–1998); country; Poland)",Koszalin Voivodeship and Szczecin Voivodeship (1975–1998) are both located in Poland.,,,,,
+32067,model_text,"(West Virginia Route 869; located in the administrative territorial entity; West Virginia), 
+(Putnam County, West Virginia; located in the administrative territorial entity; West Virginia), 
+(West Virginia; contains administrative territorial entity; Putnam County, West Virginia)","West Virginia Route 869 is located in West Virginia, as is Putnam County, West Virginia. West Virginia contains Putnam County.",,,,,
+153696,model_text,"(As I Lay Dying (band); genre; Metalcore), 
+(As I Lay Dying (band); has part; Tim Lambesis), 
+(Tim Lambesis; genre; Metalcore), 
+(Tim Lambesis; member of; As I Lay Dying (band))","As I Lay Dying (band) is a Metalcore band, with Tim Lambesis as a member. Lambesis is also a Metalcore musician.",As I Lay Dying; instance-of; band,,As I Lay Dying; instance-of; band,,
+149366,model_text,"(Nashdom; instance of; English country house), 
+(Nashdom; located in the administrative territorial entity; Burnham, Buckinghamshire)","Nashdom is an English country house located in Burnham, Buckinghamshire.",,,,,
+70378,rebel,(The World Is Not Enough; theme music; The World Is Not Enough (song)),"Radioactive released the original soundtrack album for the nineteenth James Bond film \""The World Is Not Enough\"", as well as the title track \""The World Is Not Enough\"", which was a massive hit single throughout Europe.","Radioactive; performer of; Soundtrack of The World is Not Enough
+The World is Not Enough (song); instance of; Hit single in Europe",,,,
+70822,model_code,"(Überetsch; located in the administrative territorial entity; South Tyrol), 
+(Etschtal; located in the administrative territorial entity; Italy), 
+(South Tyrol; country; Italy)","Überetsch is a valley in South Tyrol, a province in the northern Italian region of Trentino-Alto Adige/Südtirol.",South Tyrol; located in the administrative terriotrial entity; Trentino-Alto Adige/Sudtirol,,,,
+49769,model_code,(1999 Nunavut general election; point in time; 1999),The 1999 Nunavut general election was held in 1999.,,,,,
+49769,model_text,(1999 Nunavut general election; point in time; 1999),The 1999 Nunavut general election took place in 1999.,,,,,
+10422,rebel,"(Samsung Galaxy Xcover 3; operating system; Android (operating system)), 
+(Samsung Galaxy Xcover 3; manufacturer; Samsung Electronics)",The Samsung Galaxy Xcover 3 is an Android smartphone produced by Samsung Electronics and released in July 2015.,"Samsung Galaxy Xcover 3; release date; July 2015
+Samsung Galaxy Xcover 3; instance-of; smartphone",,Samsung Galaxy Xcover 3; instance-of; smartphone,,
+60130,rebel,(Poltava Governorate; country; Russian Empire),"Andriy Bobyr was born in the village of Nychyporivka, in the Poltava Governorate of the Russian Empire.","Andriy Bobyr; place of birht; Nychyporivka
+Nychyporivka; instance of; Village
+Nychyporivka; parf of; Russian Empire
+",,,,
+82099,rebel,"(Zuzowy; located in the administrative territorial entity; Gmina Przedbórz), 
+(Gmina Przedbórz; located in the administrative territorial entity; Radomsko County), 
+(Radomsko County; contains administrative territorial entity; Gmina Przedbórz), 
+(Radomsko County; located in the administrative territorial entity; Łódź Voivodeship), 
+(Łódź Voivodeship; contains administrative territorial entity; Radomsko County)","Zuzowy is a village in the administrative district of Gmina Przedbórz, within Radomsko County, Łódź Voivodeship, in central Poland.","Zuzowy; country; Poland
+Zuzowy; instance-of; village",,Zuzowy; instance-of; village,,
+99664,model_text,"(Boladı; located in the administrative territorial entity; Lankaran District), 
+(Lankaran District; country; Azerbaijan), 
+(Azerbaijan; contains administrative territorial entity; Lankaran District)","Boladı is located in the Lankaran District of Azerbaijan, which is a country containing the administrative territorial entity of Lankaran District.",,,,,
+149366,model_code,"(Nashdom; instance of; English country house), 
+(Nashdom; located in the administrative territorial entity; Burnham, Buckinghamshire)","Nashdom is an English country house in Burnham, Buckinghamshire.",,,,,
+97592,model_text,(Theodor Busse; commander of (DEPRECATED); 9th Army (Wehrmacht)),Theodor Busse was the commander of the 9th Army (Wehrmacht).,,,,,
+60582,model_code,"(United States; contains administrative territorial entity; Wisconsin), 
+(Wisconsin; located in the administrative territorial entity; United States)",Wisconsin is a state in the United States.,,,,,
+126024,rebel,"(Camille Guérin; occupation; Veterinarian), 
+(BCG vaccine; instance of; Vaccine), 
+(BCG vaccine; vaccine for; Tuberculosis)","Jean-Marie Camille Guérin (; 22 December 1872 – 9 June 1961) was a French veterinarian, bacteriologist and immunologist who, together with Albert Calmette, developed the Bacillus Calmette-Guérin (BCG), a vaccine for immunization against tuberculosis.","Jean-Marie Camille Guérin; date of birth; 22 December 1872
+Jean-Marie Camille Guérin; date of death; 9 June 1961
+Jean-Marie Camille Guérin; citizenship; French
+Jean-Marie Camille Guérin; occupation; immunologist
+Jean-Marie Camille Guérin; occupation; bacteriologist
+Jean-Marie Camille Guérin; co-inventor; BCG
+Albert Calmette; co-inventor; BCG",,,,
+33367,model_text,"(Pix Brook; located in the administrative territorial entity; Hertfordshire), 
+(Pix Brook; mouth of the watercourse; River Hiz), 
+(Hertfordshire; shares border with; Bedfordshire), 
+(Bedfordshire; shares border with; Hertfordshire), 
+(River Hiz; tributary; Pix Brook)","Pix Brook is located in the administrative territorial entity of Hertfordshire, and is the mouth of the watercourse River Hiz, which is a tributary of Pix Brook. Hertfordshire shares a border with Bedfordshire, and likewise Bedfordshire shares a border with Hertfordshire.",,,,,
+120240,rebel,"(Zeus; iconographic symbol; Thunderbolt), 
+(Zeus; iconographic symbol; Eagle), 
+(Zeus; iconographic symbol; Sacred bull)","Zeus' symbols are the thunderbolt, eagle, bull, and oak.",,,,,
+34424,rebel,"(Prince Albert Victor, Duke of Clarence and Avondale; godparent; Queen Victoria), 
+(Edward VII; spouse; Alexandra of Denmark), 
+(Alexandra of Denmark; spouse; Edward VII)","Prince Albert Victor, Duke of Clarence and Avondale (Albert Victor Christian Edward; 8 January 1864 – 14 January 1892) was the eldest child of the Prince and Princess of Wales (later King Edward VII and Queen Alexandra) and grandson of the reigning British monarch, Queen Victoria.","Prince Albert Victor, Duke of Clarence and Avondale; date of birth; 8 January 1864
+Prince Albert Victor, Duke of Clarence and Avondale; date of death; 14 January 1892
+Edward VII; occupation; Prince of Wales
+Alexandra of Denmark; occupation; Princess of Wales
+Prince Albert Victor, Duke of Clarence and Avondale; grandson; Queen Victoria
+Queen Victoria; occupation; British monarch",,,,
+77489,model_code,"(Romainmôtier; located in the administrative territorial entity; Vaud), 
+(Orbe District; located in the administrative territorial entity; Vaud), 
+(Orbe District; country; Switzerland), (Vaud; country; Switzerland), 
+(Switzerland; contains administrative territorial entity; Vaud)",Romainmôtier and Orbe District are located in the Swiss canton of Vaud.,,,,,
+34554,model_text,(Buffalo Bill; given name; William),Buffalo Bill\'s given name was William.,,,,,
+4117,model_code,(Folk Songs for Far Out Folk; performer; Fred Katz (cellist)),The Fred Katz (cellist) album Folk Songs for Far Out Folk was released in 1961.,"Folk Songs for Far Out Folk; release date; 1961
+Folk Songs for Far Out Folk; instance-of; album",,Folk Songs for Far Out Folk; instance-of; album,,
+93578,model_code,"(China; ethnic group; Han Chinese), 
+(Chinese diaspora in France; diaspora; Overseas Chinese)",The Chinese diaspora in France is composed of Han Chinese.,Chinese diaspora in France; composed of; Han Chinese,,,,
+136795,model_code,"(Lake Karachi; country; Russia), 
+(Chanovsky District; located in the administrative territorial entity; Novosibirsk Oblast), 
+(Chanovsky District; country; Russia), 
+(Novosibirsk Oblast; country; Russia), 
+(Russia; contains administrative territorial entity; Novosibirsk Oblast)","Lake Karachi is located in Chanovsky District, Novosibirsk Oblast, Russia.",,,,,
+70715,rebel,"(Koszalin Voivodeship; country; Poland), 
+(Szczecin Voivodeship (1975–1998); country; Poland)","Koszalin Voivodeship (1) – a unit of administrative division and local government in Poland in years 1950–75, created from eastern part of Szczecin Voivodeship, superseded by the voivodeships of Koszalin (2), Slupsk and Pila.","Koszalin Voivodeship; is instance of; a unit of administrative division and local government
+Koszalin Voivodeship; years active; 1950-75
+Koszalin Voivodeship; location; eastern part of Szczecin Voivodeship
+Koszalin Voivodeship; superseded by; Koszcalin, Slupsk and Pila",,,,
+60130,model_text,(Poltava Governorate; country; Russian Empire),The Poltava Governorate was part of the Russian Empire.,,,,,
+120240,model_code,"(Zeus; iconographic symbol; Thunderbolt), 
+(Zeus; iconographic symbol; Eagle), 
+(Zeus; iconographic symbol; Sacred bull)","Zeus is the god of the sky and thunder, and the king of the gods. His symbols include the thunderbolt, eagle, bull, and oak.","Zeus; instance of; God of sky and thunder
+Zeus; instance of; king of the gods
+Zeus; iconographic symbol; oak",,,,
+20185,model_text,(Cleveland Cavaliers; league; National Basketball Association),The Cleveland Cavaliers are a professional basketball team that plays in the National Basketball Association (NBA).,Cleveland Cavaliers; instance-of; basketball team,,Cleveland Cavaliers; instance-of; basketball team,,
+77489,model_text,"(Romainmôtier; located in the administrative territorial entity; Vaud), 
+(Orbe District; located in the administrative territorial entity; Vaud), 
+(Orbe District; country; Switzerland), 
+(Vaud; country; Switzerland), 
+(Switzerland; contains administrative territorial entity; Vaud)","Romainmôtier and Orbe District are both located in the administrative territorial entity of Vaud, which is in Switzerland. Switzerland contains the administrative territorial entity of Vaud.",,,,,

@@ -1,0 +1,42 @@
+# @package _global_
+
+# to execute this experiment run:
+# python run_evaluation.py evaluation=gs-st_grid_identity
+
+defaults:
+  - override /datamodule: rebel
+  - override /model: flan_t5_base
+  - override /trainer: single_gpu
+  - override /logger: wandb_team
+
+# the parameters below will be merged with parameters from the default configurations set above
+# this allows you to overwrite only a small/specific set of parameters
+datamodule:
+  constrained_world: "genie"
+  debug: True
+  batch_size: 32
+  debug_k: 2000
+
+trainer:
+  log_every_n_steps: ${floor_div:${.max_steps}, 5}
+  devices: 8
+  accumulate_grad_batches: 1
+  max_steps: 24
+  val_check_interval: ${floor_div:${.max_steps}, ${num_validation_runs}}
+
+# name of the run determines folder name in logs
+run_name: "debug_rebel_gcp"
+
+model:
+  optimizer:
+    lr: 8.0e-04
+    adam_eps: 1.0e-08
+    weight_decay: 0.01
+  scheduler:
+    name: polynomial
+    lr_end: 3.0e-06
+    warmup_updates: 3000
+    total_num_updates: ${trainer.max_steps}
+
+num_validation_runs: 2
+test: true

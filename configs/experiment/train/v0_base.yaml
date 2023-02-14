@@ -1,0 +1,35 @@
+# @package _global_
+
+# to execute this experiment run:
+# python run_evaluation.py evaluation=gs-st_grid_identity
+
+defaults:
+  - override /datamodule: rebel
+  - override /model: flan_t5_base
+  - override /trainer: ddp
+
+# the parameters below will be merged with parameters from the default configurations set above
+# this allows you to overwrite only a small/specific set of parameters
+datamodule:
+  constrained_world: "genie"
+  debug_k: 4
+
+trainer:
+  devices: 4
+  accumulate_grad_batches: 64 # x bs x devices = 64 * 4 * 4 = 1024
+  max_steps: 20000
+  val_check_interval: ${mult_int:${.accumulate_grad_batches}, 500} # number of training steps between validation runs
+
+# name of the run determines folder name in logs
+run_name: "train_rebel_base_v0"
+
+model:
+  optimizer:
+    lr: 3.0e-04
+    adam_eps: 1.0e-08
+    weight_decay: 0.02
+  scheduler:
+    name: polynomial
+    lr_end: 3.0e-06
+    warmup_updates: 3000
+    total_num_updates: ${trainer.max_steps}

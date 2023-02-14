@@ -1,0 +1,38 @@
+# @package _global_
+
+defaults:
+  - override /datamodule: sdg_code_davinci_002
+  - override /model: from_ckpt
+  - override /trainer: ddp
+  - override /logger: wandb_team
+
+model:
+  _target_: src.models.GenIEFlanT5PL.load_from_checkpoint
+  checkpoint_path: /home/martin/SynthIE_main/logs/train/runs/train_rebel_base_higher-lr_v1/2022-12-18_13-50-13/checkpoints/model-epoch_006-step_6505-val_nll-0.1740.ckpt
+  #  checkpoint_path: /Users/josifosk/Documents/PhD/SynthIE_main/logs/train/runs/gcp_logs/2022-12-18_15-03-16/checkpoints/model-epoch_009-step_4507-val_nll-0.1639.ckpt
+  hparams_overrides:
+    optimizer:
+      lr: 3.0e-05
+      adam_eps: 1.0e-08
+      weight_decay: 0.1
+    scheduler:
+      name: polynomial
+      lr_end: 3.0e-06
+      warmup_updates: 800
+      total_num_updates: ${trainer.max_steps}
+
+# the parameters below will be merged with parameters from the default configurations set above
+# this allows you to overwrite only a small/specific set of parameters
+datamodule:
+  constrained_world: "genie"
+  batch_size: 4
+  debug_k: 4
+
+trainer:
+  devices: 4
+  accumulate_grad_batches: 64 # x bs x devices = 4 x 4 x 64 = 1024
+  max_steps: 5500
+  val_check_interval: ${mult_int:${.accumulate_grad_batches}, 300} # number of training steps between validation runs
+
+# name of the run determines folder name in logs
+run_name: "finetune_base_v1_v4"

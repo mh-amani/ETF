@@ -1,0 +1,11 @@
+# @package _global_
+
+defaults:
+  - _rebel
+
+datamodule:
+  dataset_parameters:
+    test:
+      dataset:
+        load_dataset_params:
+          split: "test_20"

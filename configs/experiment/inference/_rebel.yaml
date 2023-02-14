@@ -1,0 +1,9 @@
+# @package _global_
+
+defaults:
+  - override /datamodule: rebel
+
+datamodule:
+  dataset_parameters:
+    train: null
+    val: null

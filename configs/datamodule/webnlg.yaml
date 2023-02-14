@@ -1,0 +1,9 @@
+defaults:
+  - _default
+
+_target_: src.datamodules.IEGenericDataModule
+batch_size: 2
+num_workers: 10
+
+dataset_target_: src.datamodules.IEGenericDataset
+data_dir: ${data_dir}/webnlg

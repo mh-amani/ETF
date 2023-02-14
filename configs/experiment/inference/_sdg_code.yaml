@@ -1,0 +1,8 @@
+# @package _global_
+
+defaults:
+  - override /datamodule: sdg_code_davinci_002
+
+datamodule:
+  train: null
+  val: null

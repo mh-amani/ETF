@@ -1,0 +1,14 @@
+# @package _global_
+
+# +experiment/inference=sc_fully_synthetic_ms datamodule=sdg_code_davinci_002
+# small -> datamodule.dataset_parameters.test.dataset.load_dataset_params.split="test_small" or "test_small_ordered"
+
+defaults:
+  - sc_fully_synthetic_gcp
+
+model:
+  _target_: src.models.GenIEFlanT5PL.load_from_checkpoint
+  checkpoint_path: logs/train/runs/sc_fully_synthetic_low_bs_and_lr_ms/2023-01-26_20-20-46/checkpoints/model-epoch_002-step_4001-val_nll-0.2262.ckpt
+
+run_name_prefix: ""
+run_name: ${run_name_prefix}sc_fully_synthetic_ms_datamodule-${datamodule.name}_world-${datamodule.constrained_world}_split-${datamodule.dataset_parameters.test.dataset.load_dataset_params.split}_constraint-${get_constraint_module_id:${model.constraint_module}}_lp-${model.hparams_overrides.inference.hf_generation_params.length_penalty}

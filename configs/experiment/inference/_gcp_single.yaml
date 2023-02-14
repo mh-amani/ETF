@@ -1,0 +1,13 @@
+# @package _global_
+
+defaults:
+  - override /trainer: single_gpu
+  - _self_
+
+datamodule:
+  batch_size: 25
+
+trainer:
+  devices: 1
+  max_steps: -1
+  accumulate_grad_batches: 1

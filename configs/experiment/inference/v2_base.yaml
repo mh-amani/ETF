@@ -1,0 +1,36 @@
+# @package _global_
+
+# Rebel + high(er) lr and high bs
+# Set "++model.constraint_module=null" to disable the constraint module
+
+defaults:
+  - _default_max_rebel
+
+datamodule:
+  linearization_class_id: fully_expanded_et
+
+model:
+  _target_: src.models.GenIEFlanT5PL.load_from_checkpoint
+  checkpoint_path: logs/train/runs/train_rebel_base_higher-lr_and_bs_v2/2022-12-18_15-03-16/checkpoints/model-epoch_009-step_4507-val_nll-0.1639.ckpt
+  linearization_class_id: fully_expanded_et # for backwards compatibility, should not be present for new models
+#  constraint_module:
+#    et_id_token: "[et]"
+#  constraint_module: null  # Set to null to switch off constrained generation, which by default is set to the constrained world
+#  hparams_overrides:
+#    inference:
+#      verbose_flag_in_convert_to_triple: True
+#      hf_generation_params:
+#        max_new_tokens: 256
+#        num_beams: 10
+#        num_return_sequences: 3
+#        early_stopping: False
+#
+#        encoder_no_repeat_ngram_size: 0
+#        no_repeat_ngram_size: 0
+#
+#        temperature: 1.0
+#        length_penalty: 1.0
+
+run_name_prefix: ""
+# name of the run determines folder name in logs
+run_name: ${run_name_prefix}v2_datamodule-${datamodule.name}_world-${datamodule.constrained_world}_split-${datamodule.dataset_parameters.test.dataset.load_dataset_params.split}_constraint-${get_constraint_module_id:${model.constraint_module}}_lp-${model.hparams_overrides.inference.hf_generation_params.length_penalty}

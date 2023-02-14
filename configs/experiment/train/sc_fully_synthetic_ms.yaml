@@ -1,0 +1,23 @@
+# @package _global_
+
+defaults:
+  - sc_fully_synthetic_gcp
+
+# the parameters below will be merged with parameters from the default configurations set above
+# this allows you to overwrite only a small/specific set of parameters
+datamodule:
+  batch_size: 10
+
+trainer:
+  devices: 4
+  accumulate_grad_batches: 26 # x bs x devices = 26 * 10 * 4 = 1040
+  max_steps: 20000
+
+model:
+  optimizer:
+    lr: 1.0e-04
+  scheduler:
+    warmup_updates: 1500
+
+# name of the run determines folder name in logs
+run_name: "sc_fully_synthetic_low_bs_and_lr_ms"
